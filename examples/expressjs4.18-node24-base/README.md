@@ -36,7 +36,7 @@ kraft ps
 
 ```text
 NAME                     KERNEL                      ARGS                              CREATED         STATUS   MEM   PORTS                   PLAT
-agitated_davidgreybeard  oci://unikraft.org/node:21  /usr/bin/node /usr/src/server.js  10 seconds ago  running  488M  0.0.0.0:3000->3000/tcp  qemu/x86_64
+agitated_davidgreybeard  oci://unikraft.org/node:24  /usr/bin/node /usr/src/server.js  10 seconds ago  running  488M  0.0.0.0:3000->3000/tcp  qemu/x86_64
 ```
 
 The instance name is `agitated_davidgreybeard`.
